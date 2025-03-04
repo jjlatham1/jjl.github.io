@@ -1,3 +1,3 @@
 # My GitHub Pages Website
 
-You can view my website here: [https://jjlatham1.github.io](https://jjlatham1.github.io)
+Welcome to my website! You can view it here: [https://jjlatham1.github.io](https://jjlatham1.github.io)
