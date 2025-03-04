@@ -1,4 +1,3 @@
-# github.io Website Template
-The source code for the personal page of this user.
+# My GitHub Pages Website
 
-Provided by the tutorial at https://kinsta.com/blog/github-pages/
+You can view my website here: [https://jjlatham1.github.io](https://jjlatham1.github.io)
